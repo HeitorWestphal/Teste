@@ -1,1 +1,1 @@
-Olá Mundo
+Estou refazendo/tentando fazer o site da gucci sozinho (Obvio q se tem alguma coisa q eu n sei eu pesquiso pra tentar colocar no site). Ainda estou fazendo a tela inicial.
